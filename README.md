@@ -1,4 +1,4 @@
-# Laboratorio_PowerBI_1_DSA
+# PowerBI - Dashboard Analítico de Vendas Globais
 Prática de PowerBI - Curso DSA - Laboratório 01
 
 1° Laboratório do curso de **Microsoft Power BI Para Business Intelligence e Data Science - DSA** 
